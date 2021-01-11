@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "spreadsheet"
+    }
+  },
+  "defaultProject": "spreadsheet",
+  "cli": {
+    "analytics": false
+  }
 }
